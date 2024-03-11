@@ -201,7 +201,8 @@ Penjelasan program:
 Program ini merupakan program untuk mendeklarasikan dan menampilkan informasi seseorang. Program menyimpan struct biodata dengan name yang berbentuk string dan age yang yang merupakan integer. Lalu program akan menampilkan output tentang informasi yang telah dimasukkan oleh user.
 
 Full Screenshot:
-![Screenshot 2024-03-11 153556](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/5afe00a6-4072-424f-9011-b6773cb07b98)
+![Screenshot 2024-03-11 160009](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/43679df6-fad7-46a6-97b1-1702c8827bf6)
+
 
 -Class:
 Class merupakan Struktur data yang digunakan sebagai wadah untuk data yang sifatnya privat, tidak dapat langsung dimodifikasi dari luar. 
