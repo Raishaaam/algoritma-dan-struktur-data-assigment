@@ -232,7 +232,8 @@ int main(){
 }     
 
 #### Output:
-![Screenshot 2024-03-11 160009](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/43679df6-fad7-46a6-97b1-1702c8827bf6)
+![Screenshot 2024-03-11 153451](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/d9dd72be-f911-45b6-be04-ac500a512f65)
+
 
 Penjelasan program:
 Program ini merupakan digunakan untuk membuat daftar nama dan usia seseorang yang disimpan dalam variabel mahasiswa1 yang merupakan salinan dari kelas "Mahasiswa" yang dapat diakses kesemua anggota yaitu variabel "name" dan juga "age". Karena class bersifat privat jadi variabel mahasiswa1 hanya dapat diakses didalam fungsi main.
@@ -274,10 +275,13 @@ int main() {
 }
 
 #### Output:
-> ![Screenshot 2024-03-11 120430](https://private-user-images.githubusercontent.com/161957283/311630057-97fbff7e-3564-48e2-8f90-6d35891cfc19.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDUwOTYsIm5iZiI6MTcxMDE0NDc5NiwicGF0aCI6Ii8xNjE5NTcyODMvMzExNjMwMDU3LTk3ZmJmZjdlLTM1NjQtNDhlMi04ZjkwLTZkMzU4OTFjZmMxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMVQwODEzMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODZhNmQzOGFlNGY0NjcyZGRiNmQzMmMwMjk1N2Q0YjM5NDFjNDdlNjllOTkwOWVjYWM3NWQ1NjUxOTBmNjgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QrtgtRY_KpKTsFXyaWedhD0DxN98y8jRGZqcu2LEzR4)
+![Screenshot 2024-03-11 160450](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/8e5122e3-1ea4-428e-8b64-82c906cc175f)
 
 Penjelasan Program: 
 Program ini adalah program yang digunakan untuk mengetahui variasi buku yang akan dijual. Terdapat value yang menyimpan dari tiap variasi buku yang didalamnya terdapat harga yang ditampilkan dalam bentuk integer dan string, program akan menampilkan harga dari variasi buku tersebut setelah pengguna meminta untuk cek apakah stok buku masih tersedia atau tidak. Jika barang memiliki stok yang tersedia makan menampilkan output "stok tersedia", apabila stok kosong maka program akan menampilkan output "stok tidak tersedia".
+
+Full Screenshot:
+![Screenshot 2024-03-11 160551](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/891be554-6f64-42b6-a742-ba70eb972b6a)
 
 Github:
 (https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment.git)
