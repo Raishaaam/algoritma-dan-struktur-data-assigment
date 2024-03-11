@@ -155,13 +155,13 @@ int main() {
 }
 
 #### Output:
-> ![Screenshot 2024-03-11 152504](https://private-user-images.githubusercontent.com/161957283/311633354-2a54c032-8619-418e-8505-f47b593b4408.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDU4NDIsIm5iZiI6MTcxMDE0NTU0MiwicGF0aCI6Ii8xNjE5NTcyODMvMzExNjMzMzU0LTJhNTRjMDMyLTg2MTktNDE4ZS04NTA1LWY0N2I1OTNiNDQwOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMVQwODI1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YTQ4Yzg3ZTlkMGYxODdkNTk0ZGUzYjRlM2M2MGM4MjE2MjVlNjc5OWFiOTljYWVkNjgwNjQzY2M2M2Q4MTMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6naBkRacpm0KaHQhPEp8Mm4BCGv5ZlOAGs-Y0WoQgQI)
+![Screenshot 2024-03-11 152504](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/2a54c032-8619-418e-8505-f47b593b4408)
 
 Penjelasan program:
 Program ini merupakan tipe data primitif yang menghitung keliling persegi. Didalam program terdapat 2 fungsi yaitu float (untuk bilangan pecahan) dan juga int (untuk bilangan bulat), fungsi ini yang akan digunakan untuk menyimpan nilai dari panjang sisi persegi. Kemudian, program akan mencetak hasil perhitungan keliling persegi setelah memasukkan nilai sisi, menghitung keliling persegi menggunakan rumus sisi dikali 4, output yang dihasilkan terdapat 2 format tentunya yaitu dengan nilai sisi berupa bilangan bulat (int) dan juga dengan nilai sisi berupa bilangan pecahan (float).
 
 Full Screenshot:
-> ![Screenshot 2024-03-11 152636](https://private-user-images.githubusercontent.com/161957283/311633684-961bd4d2-9195-45da-b31c-2d3ee3f454e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDU5MjMsIm5iZiI6MTcxMDE0NTYyMywicGF0aCI6Ii8xNjE5NTcyODMvMzExNjMzNjg0LTk2MWJkNGQyLTkxOTUtNDVkYS1iMzFjLTJkM2VlM2Y0NTRlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMVQwODI3MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOTBlODQ0MTVhZGI4NGZjNTlkMjBlMmJiODNiOWExNjVmMjI4NDQwMGI4NmQyMGIyODFiYTAxMzk0MzU2NWYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Cm-15kArsiJf3n4sDyialNP5w-nwaBtTFYh-t5lCMhw)
+![Screenshot 2024-03-11 152636](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/961bd4d2-9195-45da-b31c-2d3ee3f454e2)
 
 ### 2. [Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya]
 
@@ -195,13 +195,13 @@ int main() {
 }
 
 #### Output:
-> ![Screenshot 2024-03-11 152831](https://private-user-images.githubusercontent.com/161957283/311634301-8597428c-5fcc-49cd-8e90-b4688db4245a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDYwNTYsIm5iZiI6MTcxMDE0NTc1NiwicGF0aCI6Ii8xNjE5NTcyODMvMzExNjM0MzAxLTg1OTc0MjhjLTVmY2MtNDljZC04ZTkwLWI0Njg4ZGI0MjQ1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMVQwODI5MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNGMzZDcxZTc1NDY1NGFmNzEzNDE1ZTQ2NWZmOGRlZjZlZGZjZmFjNmNkNTRhOGI0MGZhMmRkZTFlZWNjZDQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pjGeznWqoP5_W7DZM1zvBgl-crTN1-CvmLaAv58RO0g)
+![Screenshot 2024-03-11 152831](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/8597428c-5fcc-49cd-8e90-b4688db4245a)
 
 Penjelasan program:
 Program ini merupakan program untuk mendeklarasikan dan menampilkan informasi seseorang. Program menyimpan struct biodata dengan name yang berbentuk string dan age yang yang merupakan integer. Lalu program akan menampilkan output tentang informasi yang telah dimasukkan oleh user.
 
 Full Screenshot:
-> ![Screenshot 2024-03-11 152843](https://private-user-images.githubusercontent.com/161957283/311634968-4d448903-48bc-4da0-976e-2ad5e8f618ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDYyNDMsIm5iZiI6MTcxMDE0NTk0MywicGF0aCI6Ii8xNjE5NTcyODMvMzExNjM0OTY4LTRkNDQ4OTAzLTQ4YmMtNGRhMC05NzZlLTJhZDVlOGY2MThjZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMVQwODMyMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MTc0Y2I4NmRmNjdkMWMxOTkzOTU2OTM1YmJhNjQxYTdlNWI5NGYzNjM1YTc3N2QyNGQwODA3Mzk4NGFjZWJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.aAZbfSDODDIKr0opr66YZHATiw4mL3VLsM0Gy_NkvQ4) 
+![Screenshot 2024-03-11 153556](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/5afe00a6-4072-424f-9011-b6773cb07b98)
 
 -Class:
 Class merupakan Struktur data yang digunakan sebagai wadah untuk data yang sifatnya privat, tidak dapat langsung dimodifikasi dari luar. 
@@ -231,7 +231,7 @@ int main(){
 }     
 
 #### Output:
-> ![Screenshot 2024-03-11 153451](https://private-user-images.githubusercontent.com/161957283/311635971-d9dd72be-f911-45b6-be04-ac500a512f65.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDY0NDcsIm5iZiI6MTcxMDE0NjE0NywicGF0aCI6Ii8xNjE5NTcyODMvMzExNjM1OTcxLWQ5ZGQ3MmJlLWY5MTEtNDViNi1iZTA0LWFjNTAwYTUxMmY2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMVQwODM1NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YWMxY2YwNWFkMzM4ZTE4NDk1OGYzMmM5N2M3OWQ0ZGRhMjY4ODRiMDJiM2Y3NGY5MDNiYTk5ZGU5OGZlMTlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.294ik5pjnwk8t5I37pzTFwZ4OieqSgP65m2fvjv6Snc)
+![Screenshot 2024-03-11 160009](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/43679df6-fad7-46a6-97b1-1702c8827bf6)
 
 Penjelasan program:
 Program ini merupakan digunakan untuk membuat daftar nama dan usia seseorang yang disimpan dalam variabel mahasiswa1 yang merupakan salinan dari kelas "Mahasiswa" yang dapat diakses kesemua anggota yaitu variabel "name" dan juga "age". Karena class bersifat privat jadi variabel mahasiswa1 hanya dapat diakses didalam fungsi main.
