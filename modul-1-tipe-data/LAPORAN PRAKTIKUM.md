@@ -287,7 +287,7 @@ Github:
 (https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment.git)
 
 ## Kesimpulan
-Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar tentang tipe data dan struktur data dalam pemrograman bahasa C+. Terdapat tipe data yang telah di pelajari yaitu tipe data primitif, tipe data abstrak, tipe data koleksi. Penjelasan tentang perbedaan tipe data tersebut lalu dibuat program sederhana yang sesuai sebagai implementasi dan juga pembelajaran. 
+Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar tentang tipe data dan struktur data dalam pemrograman bahasa C+. Terdapat tipe data yang telah di pelajari yaitu tipe data primitifseperti integer dan string, tipe data abstrak seperti class dan struck, tipe data koleksi seperti array dan map. Penjelasan tentang perbedaan tipe data tersebut lalu dibuat program sederhana yang sesuai sebagai implementasi dan juga pembelajaran. 
 
 ## Referensi
 [1] Horowitz, E., Sahni, S., & Anderson-Freed, S. (tahun). Fundamentals of Data Structures in C++. Penerbit.
