@@ -50,6 +50,7 @@ main()
     return 0;
 }
 
+### Interpretasi
 Program ini merupakan program untuk melakukan operasi hitung sederhana dengan tipe data primitif. Pengguna dapat memilih operasi perhitungan terlebih dahulu, lalu setelah itu menginput 2 angka untuk dioperasikan, setelah itu program akan menghitung sesuai dengan operasi perhitungan yang dipilih.
 
 
@@ -91,6 +92,7 @@ int main()
     return 0;
 }
 
+### Interpretasi
 Struct 'Mahasiswa' digunakan untuk mendefinisikan sebuah wadah untuk data seperti 'name', 'address', dan 'age'. Kemudian, dua variabel dari tipe 'Mahasiswa', yaitu 'mhs1' dan 'mhs2', dideklarasikan dan diisi dengan nilai-nilai yang sesuai kemudian dicetak menggunakan printf untuk menampilkan data dari setiap mahasiswa.
 
 
@@ -120,6 +122,7 @@ int main()
     return 0;
 }
 
+### Interpretasi
 Mendeklarasikan sebuah array dengan nama "nilai" yang berisi 5, mengatur nilai nilai didalam array yang kemudian akan dicetak setiap nilai array beserta indeksnya dengan fungsi "cout". Lalu terdapat fungsi "return" yang akan mengembalikan nilai menjadi 0 sebagai tanda bahwa program telah berakhir.
 
 ## Unguided 
@@ -157,7 +160,7 @@ int main() {
 #### Output:
 ![Screenshot 2024-03-11 152504](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/2a54c032-8619-418e-8505-f47b593b4408)
 
-Penjelasan program:
+### Interpretasi
 Program ini merupakan tipe data primitif yang menghitung keliling persegi. Didalam program terdapat 2 fungsi yaitu float (untuk bilangan pecahan) dan juga int (untuk bilangan bulat), fungsi ini yang akan digunakan untuk menyimpan nilai dari panjang sisi persegi. Kemudian, program akan mencetak hasil perhitungan keliling persegi setelah memasukkan nilai sisi, menghitung keliling persegi menggunakan rumus sisi dikali 4, output yang dihasilkan terdapat 2 format tentunya yaitu dengan nilai sisi berupa bilangan bulat (int) dan juga dengan nilai sisi berupa bilangan pecahan (float).
 
 Full Screenshot:
@@ -197,7 +200,7 @@ int main() {
 #### Output:
 ![Screenshot 2024-03-11 152831](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/8597428c-5fcc-49cd-8e90-b4688db4245a)
 
-Penjelasan program:
+### Interpretasi
 Program ini merupakan program untuk mendeklarasikan dan menampilkan informasi seseorang. Program menyimpan struct biodata dengan name yang berbentuk string dan age yang yang merupakan integer. Lalu program akan menampilkan output tentang informasi yang telah dimasukkan oleh user.
 
 Full Screenshot:
@@ -235,7 +238,7 @@ int main(){
 ![Screenshot 2024-03-11 153451](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/d9dd72be-f911-45b6-be04-ac500a512f65)
 
 
-Penjelasan program:
+### Interpretasi
 Program ini merupakan digunakan untuk membuat daftar nama dan usia seseorang yang disimpan dalam variabel mahasiswa1 yang merupakan salinan dari kelas "Mahasiswa" yang dapat diakses kesemua anggota yaitu variabel "name" dan juga "age". Karena class bersifat privat jadi variabel mahasiswa1 hanya dapat diakses didalam fungsi main.
 
 Full Screenshot:
@@ -277,7 +280,7 @@ int main() {
 #### Output:
 ![Screenshot 2024-03-11 160450](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/8e5122e3-1ea4-428e-8b64-82c906cc175f)
 
-Penjelasan Program: 
+### Interpretasi
 Program ini adalah program yang digunakan untuk mengetahui variasi buku yang akan dijual. Terdapat value yang menyimpan dari tiap variasi buku yang didalamnya terdapat harga yang ditampilkan dalam bentuk integer dan string, program akan menampilkan harga dari variasi buku tersebut setelah pengguna meminta untuk cek apakah stok buku masih tersedia atau tidak. Jika barang memiliki stok yang tersedia makan menampilkan output "stok tersedia", apabila stok kosong maka program akan menampilkan output "stok tidak tersedia".
 
 Full Screenshot:
