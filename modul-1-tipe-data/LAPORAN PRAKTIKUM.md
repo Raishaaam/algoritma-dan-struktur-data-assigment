@@ -168,7 +168,7 @@ Full Screenshot:
 
 ### 2. [Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya]
 
--Struct:
+#### Struct:
 Struct atau structure merupan tipe data yang menyimpanan beberapa data dengan default public, Struktur bermanfaat untuk mengelompokan sejumlah data dengan tipe yang berlainan.
 
 Contoh code:
@@ -207,7 +207,7 @@ Full Screenshot:
 ![Screenshot 2024-03-11 160009](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/43679df6-fad7-46a6-97b1-1702c8827bf6)
 
 
--Class:
+#### Class:
 Class merupakan Struktur data yang digunakan sebagai wadah untuk data yang sifatnya privat, tidak dapat langsung dimodifikasi dari luar. 
 
 Contoh code:
