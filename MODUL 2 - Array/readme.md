@@ -363,5 +363,6 @@ Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar tentang
      Available: https://repository.penerbitwidina.com/id/publications/557434/algoritma-dan-struktur-data   
 [3]  M. A. Alfagiih, "Struktur Data," Universitas Mitra Indonesia, Sistem Informasi, 175100047.  
 [4]  W. Tarigan, "Algoritma Pemrograman dan Struktur Data," November 3, 2022.  
-[5] A. Setiawan, "Modul Struktur Data," Spirit Toward the Future, 2021.   
+[5] A. Setiawan, "Modul Struktur Data," Spirit Toward the Future, 2021.
+     Available: https://www.agung73.com/wp-content/uploads/2021/02/Modul-Struktur-Data-R1.pdf
 [6] Rus'an, J.A.P., “Program C++ : Array Multidimensi Menghitung Nilai Tertinggi, Perkalian Matriks, dan Rata-rata”, 30-Des-2022. 
