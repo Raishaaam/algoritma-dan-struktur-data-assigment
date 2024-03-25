@@ -26,9 +26,9 @@ Mempunyai Type Data Sama (Bersifat Homogen)[5].
 2. Dapat Diakses Secara Acak[5].
 
 ### Deklarasi Array
-1. Tipe data array.
-2. Nama variabel array.
-3. Indeks array.
+1. Tipe data array[3].
+2. Nama variabel array[3].
+3. Indeks array[3].
 
 ### Keunggulan dan Kelemahan Array
 Keunggulan:
