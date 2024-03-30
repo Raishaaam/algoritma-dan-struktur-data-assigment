@@ -26,9 +26,9 @@ Mempunyai Type Data Sama (Bersifat Homogen)[5].
 2. Dapat Diakses Secara Acak[5].
 
 ### Deklarasi Array
-1. Tipe data array.
-2. Nama variabel array.
-3. Indeks array.
+1. Tipe data array[3].
+2. Nama variabel array[3].
+3. Indeks array[3].
 
 ### Keunggulan dan Kelemahan Array
 Keunggulan:
@@ -357,10 +357,12 @@ Program diatas menampilkan menu yang digunakan user untuk mencari nilai maksimum
 Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar tentang array. Konsep-konsep dasar ini penting untuk dikuasai karena array merupakan struktur data fundamental dalam pemrograman yang digunakan untuk menyimpan kumpulan elemen dengan tipe data yang sama. Dengan memahami konsep dasar tentang array, pembaca akan dapat memahami cara menggunakan, mengakses, dan memanipulasi data dalam program secara efisien. Selain itu, pemahaman tentang array juga menjadi dasar bagi pemahaman konsep struktur data yang lebih kompleks dan algoritma yang melibatkan penggunaan array. 
 
 ## Referensi
-[1]  M. A. Pratama, "Struktur Data Array Dua Dimensi pada Pemrograman C++."    
+[1]  M. A. Pratama, "Struktur Data Array Dua Dimensi pada Pemrograman C++." 
+     Available: https://osf.io/preprints/osf/vyech
 [2]  M. P. Putri et al., "Algoritma dan Struktur Data," September 28, 2022. 
-    Available: https://repository.penerbitwidina.com/id/publications/557434/algoritma-dan-struktur-data   
+     Available: https://repository.penerbitwidina.com/id/publications/557434/algoritma-dan-struktur-data   
 [3]  M. A. Alfagiih, "Struktur Data," Universitas Mitra Indonesia, Sistem Informasi, 175100047.  
 [4]  W. Tarigan, "Algoritma Pemrograman dan Struktur Data," November 3, 2022.  
-[5] A. Setiawan, "Modul Struktur Data," Spirit Toward the Future, 2021.   
+[5] A. Setiawan, "Modul Struktur Data," Spirit Toward the Future, 2021.
+     Available: https://www.agung73.com/wp-content/uploads/2021/02/Modul-Struktur-Data-R1.pdf
 [6] Rus'an, J.A.P., “Program C++ : Array Multidimensi Menghitung Nilai Tertinggi, Perkalian Matriks, dan Rata-rata”, 30-Des-2022. 
