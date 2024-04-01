@@ -230,6 +230,9 @@ int main() {
 
 Program ini digunakan untuk mengurutkan mahasiswa IPS dari kelas S1 IF 2016 G dengan menggunakan Algoritma Selection Sort. Di dalam kode program ini terdapat fungsi `selection_sort` yang digunakan untuk menukarkan elemen array dilakukan dengan menggunakan variabel `temp` sebagai tempat sementara, dan perbandingan `maxIndex` dengan `i` dilakukan untuk memastikan bahwa elemen yang telah ditemukan sebagai nilai maksimum tidak perlu dipindahkan. Kemudian fungsi `cetak_array` merupakan format output dari elemen array yang juga diubah dengan menambahkan `%If` pada printf untuk mengatur format outputnya menjadi desimal.
 
+### Analisis Kompleksitas Waktu dan Ruang
+Fungsi `selection_sort` memiliki kompleksitas waktu yaitu O(n2), yang dimana n adalah jumlah elemen dalam array. Terdapat dua loop yaitu loop luar yang berjalan n - 1 kali, dan pada loop dalam yang berjalan n - 1, n - 2, n - 3. Jumlah iterasi total adalah n(n-1)/2 yang ada pada notasi Big O dapat disederhanakan menjadi O(n^2).
+Fungsi `cetak_array` menggunakan ruang konstan, tetapai hanya melakukan pencetakan dan tidak menyimpan data tambahan. Kompleksitas ruangnya O(n)
 
 ### 2. [Pak RT memiliki 10 warga dengan nama: siti, situ, sana, ana, ani, caca, cici, dida, dodo,dan dadi. Supaya mudah dalam melakukan pencarian, Pak RT akan mengurutkan namanama tersebut sesuai dengan alfabet. Buatlah program untuk membantu Pak RT dengan menggunakan algoritma Bubble Sort!]
 
