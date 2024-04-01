@@ -232,7 +232,7 @@ Program ini digunakan untuk mengurutkan mahasiswa IPS dari kelas S1 IF 2016 G de
 
 ### Analisis Kompleksitas Waktu dan Ruang
 Fungsi `selection_sort` memiliki kompleksitas waktu yaitu O(n2), yang dimana n adalah jumlah elemen dalam array. Terdapat dua loop yaitu loop luar yang berjalan n - 1 kali, dan pada loop dalam yang berjalan n - 1, n - 2, n - 3. Jumlah iterasi total adalah n(n-1)/2 yang ada pada notasi Big O dapat disederhanakan menjadi O(n^2).
-Fungsi `cetak_array` menggunakan ruang konstan, tetapai hanya melakukan pencetakan dan tidak menyimpan data tambahan. Kompleksitas ruangnya O(n)
+Fungsi `cetak_array` menggunakan ruang konstan, tetapai hanya melakukan pencetakan dan tidak menyimpan data tambahan. Kompleksitas ruangnya O(1) sedangkah kompleksitas waktunya O(n). 
 
 ### 2. [Pak RT memiliki 10 warga dengan nama: siti, situ, sana, ana, ani, caca, cici, dida, dodo,dan dadi. Supaya mudah dalam melakukan pencarian, Pak RT akan mengurutkan namanama tersebut sesuai dengan alfabet. Buatlah program untuk membantu Pak RT dengan menggunakan algoritma Bubble Sort!]
 
@@ -273,6 +273,9 @@ int main() {
 Program ini digunakan untuk mengurutkan variabel dari 10 nama warga menggunakan bubble sort. Terdapat fungsi `bubblesort` yang digunakan untuk mengurutkan array string `nama`. Pada fungsi ini digunakan untuk membandingkan dua elemen yang berdekatan, dan memperlihatkan yang lebih besar atau kecil ke posisi yang benar. Terdapat fungsi `main` yang di dalamnya, terdapat array string `nama`  yang berisi nama-nama warga Pak RT. Fungsi `n` digunakan untuk menyimpan panjang array dalam variabel. Fungsi `bubblesort` dipanggil dengan parameter `nama` dan `n`. 
 
 Program ini, juga menggunakan library `string` untuk mengelola string. Dengan fungsi `swap` yang digunakan untuk memperlihatkan dua elemen yang perlu ditukar.
+
+### Analisis Kompleksitas Waktu dan Ruang
+Fungsi `bubblesort` memiliki komplesitas waktu yang buruk yaitu O(n^2), yang dimana n merupakan jumlah elemen pada array. Hal ini karena terdapat dua loop yaitu loop luar yang berjalan n - 1 kali. Dengan jumlah iterasi total adalah n(n-1)/2 yang terdapay pada Big O dapat disederhanakan menjadi O(n^2).
 
 ### 3. [Buatlah program yang meminta user menginputkan suatu bilangan n dan meminta user untuk menginputkan sejumlah n karakter. Kemudian program akan melakukan sorting secara menaik (ascending) dan menurun (descending)!]
 
@@ -334,6 +337,9 @@ int main() {
 ![Screenshot 2024-03-30 182518](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/91485f14-ee43-434c-bc6b-74b09ce926c5)
 
 Program ini digunakan untuk mensorting karakter secara ascending dan descanding. Terdapat library `algorihtm` yang digunakan untuk fungsi sorting `sort()` dan `reserve()`. Terdapat fungsi `int n;` yang mendeklarasikan variabel `n` bertipe integer untuk menyimpan jumlah karakter dan fungsi `cout << "Masukkan jumlah karakter: ";` digunakan untuk menampilkan pesan kepada user untuk memasukkan jumlah karakter. Lalu fungsi `char karakter[n]` digunakan untuk mendeklarasikan array `karakter` dengan tipe data `char` (karakter) dan ukuran `n`. Perulangan `for` dengan loop sebanyak `n` kali untuk iterasi setiap karakter. Terdapat `cout << "Karakter ke-" << ": ";` digunakan untuk menampilkan pesan kepada user untuk memasukkan karakter ke-i+1. Kemudian `cin >> karakter[i]` digunakan untuk membaca input karakter dari user dan menyimpannya pada elemen ke-i array `karakter`. Lalu fungsi `sort(karakter, karakter + n);` menggunakan fungsi `sort()` dari nampespace `algorithm` untuk mengurutkan elemen array `karakter` secara ascending. Lalu yang terakhir adalah fungsi `return 0` yang menandakan program selesai dengan sukses.
+
+### Analisis Kompleksitas Waktu dan Ruang
+Pada kode ini menggunakan algoritma sort dari STL yang memiliki waktu O(n log n), yang dimana n adalah jumlah karakter yang dimasukkan. Kompleksitas waktu yang didominasi oleh sorting yaitu O (n log n) dengan komplesitaksi ruang yang membutuhkan ruang O(n) untuk karakter array tersebut.
 
 
 
