@@ -286,7 +286,7 @@ Github:
 (https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment.git)
 
 ## Kesimpulan
-Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar searching. Pada laporan ini menjelaskan definisi struct, dengan cara mendeklarasikannya, cara mengisi data ke dalam struct, dan juga cara menampilkan data dari struct. Laporan ini juga memberikan contoh dari program C++ ang menggunakan struct untuk menyimpan informasi tentang buku. Dalam hal ini pengguna  dapat menggunakan program ini untuk mempelajari cara kerja struct dan bagaimana mereka dapat digunakan untuk mengelola data dengan lebih efektif. Secara keseluruhan, laporan ini diharapkan dapat membantu pembaca untuk memahami konsep dasar struct dan bagaimana mereka dapat digunakan untuk mengembangkan program yang lebih baik. 
+Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar searching. Pada laporan ini menjelaskan definisi struct, dengan cara mendeklarasikannya, cara mengisi data ke dalam struct, dan juga cara menampilkan data dari struct. Laporan ini juga memberikan contoh dari program C++ yang menggunakan struct untuk menyimpan informasi tentang buku. Dalam hal ini pengguna  dapat menggunakan program ini untuk mempelajari cara kerja struct dan bagaimana mereka dapat digunakan untuk mengelola data dengan lebih efektif. Secara keseluruhan, laporan ini diharapkan dapat membantu pembaca untuk memahami konsep dasar struct dan bagaimana mereka dapat digunakan untuk mengembangkan program yang lebih baik. 
 
 ## Referensi
 [1] A. S. RMS, "Struktur Data dan Algoritma dengan C++," CV. AA. RIZKY, 2019.  
