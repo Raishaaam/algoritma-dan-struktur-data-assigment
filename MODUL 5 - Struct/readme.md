@@ -1,5 +1,5 @@
 Praktikum Alpro
-# <h1 align="center">Laporan Praktikum Modul 5 Struck</h1>
+# <h1 align="center">Laporan Praktikum Modul 5 Struct</h1>
 <p align="center">2311110002 / Raisha  Amalia / Sains Data</p>
 
 ## Dasar Teori
