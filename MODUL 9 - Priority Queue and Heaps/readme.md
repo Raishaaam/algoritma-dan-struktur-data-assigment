@@ -40,7 +40,8 @@ Heap adalah sebuah binary tree dengan ketentuan sebagai berikut[3]:
 a. Semua level tree mempunyai simpul maksimum kecuali pada level terakhir[3].    
 b. Pada level terakhir, node tersusun dari kiri ke kanan tanpa ada yang dilewati[3].
 2. Perbandingan nilai suatu node dengan nilai node child-nya mempunyai ketentuan berdasarkan jenis heap, diantaranya[3]:  
-a. `Max Heap` mempunyai ketentuan bahwa nilai suatu node lebih besar atau sama dengan (>=) dari nilai childnya[3].   b. `Min Heap` mempunyai ketentuan bahwa nilai suatu node lebih kecil atau sama dengan (<=) dari nilai childnya[3].
+a. `Max Heap` mempunyai ketentuan bahwa nilai suatu node lebih besar atau sama dengan (>=) dari nilai childnya[3].                       
+b. `Min Heap` mempunyai ketentuan bahwa nilai suatu node lebih kecil atau sama dengan (<=) dari nilai childnya[3].
 
 ### Ada beberapa operasi yang dapat terjadi di sebuah heap, yaitu[3]:
 1. `Reorganisasi Heap` (mengatur ulang heap)[3].
@@ -352,7 +353,7 @@ Laporan ini disusun untuk menjadi acuan bagi pembaca dalam memahami konsep dasar
     Available: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/Makalah/MakalahStmik38.pdf  
 [2] B. B. Pangestu, G. S. H. Barata, E. W. Lay, dan M. Alghifari, "Makalah Priority Queue Revisi," FAKULTAS TEKNIK UNIVERSITAS TANJUNGPURAPONTIANAK, 2023.  
     Available: https://id.scribd.com/document/657230171/Makalah-Priority-Queue-revisi  
-[3] A. Heryandi, "Heap dan Operasinya,
+[3] A. Heryandi, "Heap dan Operasinya,                   
     Available:https://repository.unikom.ac.id/36115/1/Bab%20XI%20-%20Heap.pdf  
 [4] T. Trivusi, "Struktur Data Heap: Pengertian, Karakteristik, dan Operasinya," 2023.  
     Available: https://www.trivusi.web.id/2023/01/struktur-data-heap.html 
