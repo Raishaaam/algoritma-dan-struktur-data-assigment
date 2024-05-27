@@ -179,9 +179,9 @@ Github:
 Pada laporan ini disusun untuk menjadi acuan untuk memahami konsep dasar rekursi, termasuk cara mendeklarasikan, mengisi data, dan menampilkan data secara rekursif. Dengan menyertakan contoh program C++ yang menggunakan rekursi untuk memecahkan masalah, laporan ini memungkinkan pengguna mempelajari cara kerja rekursi dan penggunaannya dalam mengelola data. Secara keseluruhan, laporan ini diharapkan dapat membantu pembaca memahami konsep dasar rekursi dan mengaplikasikannya untuk mengembangkan program yang lebih baik. Pada intinya, laporan ini membantu memahami konsep dasar rekursi dan aplikasinya dalam program yang lebih baik.
 
 ## Referensi
-[1] A. S. Kom. Anisya, "Modul Praktikum Struktur Data - Rekursif," Institut Teknologi Padang, Padang, Indonesia.
-    Available: https://sisfo.itp.ac.id/bahanajar/BahanAjar/Anisya/Modul%202%20-%20Rekursi.pdf
-[2] J. T. Santoso, "STRUKTUR DATA dan ALGORITMA (Bagian 1)," Universitas Sains & Teknologi Komputer (Universitas STEKOM), 2021.
-    Available: https://digilib.stekom.ac.id/assets/dokumen/ebookfeb_79fedb4a8e12bce66ca9d67971af2563167f7d45_164187510 pdf
-[3] S. Mattoo, "Recursion in Data Structure," Apr 16, 2024.
+[1] A. S. Kom. Anisya, "Modul Praktikum Struktur Data - Rekursif," Institut Teknologi Padang, Padang, Indonesia.   
+    Available: https://sisfo.itp.ac.id/bahanajar/BahanAjar/Anisya/Modul%202%20-%20Rekursi.pdf    
+[2] J. T. Santoso, "STRUKTUR DATA dan ALGORITMA (Bagian 1)," Universitas Sains & Teknologi Komputer (Universitas STEKOM), 2021.   
+    Available: https://digilib.stekom.ac.id/assets/dokumen/ebookfeb_79fedb4a8e12bce66ca9d67971af2563167f7d45_164187510 pdf  
+[3] S. Mattoo, "Recursion in Data Structure," Apr 16, 2024.   
     Available:https://intellipaat.com/blog/recursion-in-data-structure/
