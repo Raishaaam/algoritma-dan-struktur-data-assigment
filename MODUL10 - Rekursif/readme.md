@@ -6,13 +6,13 @@ Praktikum Alpro
 
 `Rekursif` adalah proses pengulangan sesuatu dengan cara kesamaan diri[1]. Metode rekursif memecahkan masalah dengan memanggil salinan dirinya sendiri untuk mengerjakan masalah yang lebih kecil[2]. Kode rekursif umumnya lebih pendek dan lebih mudah ditulis daripada kode berulang[2]. Umumnya, loop diubah menjadi fungsi rekursif ketika dikompilasi atau diinterpretasikan[2]. Rekursif paling berguna untuk tugas-tugas yang dapat didefinisikan dalam hal subtugas serupa[2]. Misalnya, masalah sortir, pencarian, dan traversal sering kali memiliki solusi rekursif sederhana[2].
 
-Fungsi rekursif yaitu melakukan sebagian tugas dengan memanggil dirinya sendiri untuk melakukan subtugas[2]. Pada titik tertentu, fungsi tersebut dapat menemukan subtugas yang dijalankannya tanpa memanggil dirinya sendiri[2]. Dalam kasus ini, jika fungsinya tidak berulang, disebut kasus dasar. Yang pertama, dimana fungsi memanggil dirinya sendiri untuk melakukan subtugas, disebut sebagai kasus ekursif. Kita dapat menulis semua fungsi rekursif menggunakan format:
+Fungsi rekursif yaitu melakukan sebagian tugas dengan memanggil dirinya sendiri untuk melakukan subtugas[2]. Pada titik tertentu, fungsi tersebut dapat menemukan subtugas yang dijalankannya tanpa memanggil dirinya sendiri[2]. Dalam kasus ini, jika fungsinya tidak berulang, disebut kasus dasar. Yang pertama, dimana fungsi memanggil dirinya sendiri untuk melakukan subtugas, disebut sebagai kasus ekursif. Kita dapat menulis semua fungsi rekursif menggunakan format:    
 ![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/3bbf4d65-5301-4d4e-8ba6-dd69480e9976)
 
-Contoh ini, jika memanggil fungsi print dengan n=4, secara visual tugas memori:
+Contoh ini, jika memanggil fungsi print dengan n=4, secara visual tugas memori:   
 ![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/266f6cbf-aa69-46ac-81d5-71bd3b9da4dc)
 
-Contoh menggunakan fungsi dari faktorial dengan n=4:
+Contoh menggunakan fungsi dari faktorial dengan n=4:      
 ![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/22dd30f4-f273-4f78-932d-db7f7706952e)
 
 ### Contoh Algoritma Rekursi
