@@ -498,6 +498,6 @@ Laporan ini disusun untuk memberikan panduan komprehensif mengenai konsep dasar 
 
 ## Referensi
 [1] Mulyana, A., et al., Cara Mudah Mempelajari Algoritma dan Struktur Data. Edisi Pertama. Yogyakarta : DIVA Press, 2021
-    Available: https://repository.mercubuana.ac.id/80729/1/Cara%20Mudah%20Mempelajari%20Algoritma%20dan%20Struktur%20Data.pdf
-[2] J. Prestiliano. Aplikasi Tabel Hash dalam Pengarsipan dan Pencarian Data. Fakultas Teknologi Informasi Universitas Kristen Satya Wacana, 2019.
+    Available: https://repository.mercubuana.ac.id/80729/1/Cara%20Mudah%20Mempelajari%20Algoritma%20dan%20Struktur%20Data.pdf        
+[2] J. Prestiliano. Aplikasi Tabel Hash dalam Pengarsipan dan Pencarian Data. Fakultas Teknologi Informasi Universitas Kristen Satya Wacana, 2019.            
     Available: (https://repository.uksw.edu/bitstream/123456789/1012/2/ART_Jasson%20Prestiliano_Aplikasi%20tabel%20hash_Full%20text.pdf).
