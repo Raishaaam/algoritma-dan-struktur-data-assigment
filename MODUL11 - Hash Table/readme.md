@@ -19,7 +19,7 @@ Kelebihan teknik `re-hashing` adalah waktu yan g dibutuhkan untuk melakukan fung
 2. `Hash table` juga dapat mempersingkat waktu pencarian, karena bila ada satu karakter saja yang tidak cocok, maka pencarian langsung berpindah pada bagian selanjutnya, jadi tidak mencari secara sekuensial[2].  
 
 ### Kekurangan
-1. `Hash table` memiliki kendala, yaitu collision, untuk itu diperlukan penanganan secara khusus untuk mengatasi kendala tersebut. Beberapa penanganan yang dapat dilakukan antara lain menggunakan `hash matrix`, `chaining`, `re-hashing`, `linear probing`, dan `quadratic probing`.
+1. `Hash table` memiliki kendala, yaitu collision, untuk itu diperlukan penanganan secara khusus untuk mengatasi kendala tersebut. Beberapa penanganan yang dapat dilakukan antara lain menggunakan `hash matrix`, `chaining`, `re-hashing`, `linear probing`, dan `quadratic probing`[2].
 
 ## Guided 
 
