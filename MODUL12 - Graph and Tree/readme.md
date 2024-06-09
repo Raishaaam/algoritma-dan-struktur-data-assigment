@@ -87,7 +87,7 @@ int main() {
 ```
 
 ### Output
-![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/0656d781-fd0f-4a3b-adf7-b87cb281e086)
+![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/682d9d5a-2612-4f90-8bae-b52705c60aab)
 
 Program ini merupakan implementasi dari representasi graf yang menggunakan adjacency matrix. Graf ini memiliki 7 simpul (node) yang didefinisikan dalam array `simpul` dengan nama-nama kota di Indonesia. Matriks `busur` juga memuat adanya busur (edge) antar simpyl, dimana nilai 0 berarti tidak ada busur dan nilai lainnya berarti ada busur dengan bobot (weight) tertentu. Lalu fungsi `tampilGraph` digunakan untuk menampilkan graf tersebut ke dalam bentuk tabel, dimana setiap baris memuat simpul dan kolom-kolomnya merepresentasikan simpul lain yang terhubung dengan simpul beserta bobotnya.
 
