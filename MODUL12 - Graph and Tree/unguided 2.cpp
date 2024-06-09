@@ -90,6 +90,7 @@ private:
     }
 
 public:
+    int Raisha_2311110002;
     Tree() : root(nullptr) {}
 
     void insertRoot(const string& value) {
