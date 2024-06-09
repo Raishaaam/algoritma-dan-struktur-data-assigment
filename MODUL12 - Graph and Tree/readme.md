@@ -267,7 +267,7 @@ int main() {
 ```
 
 #### Output:
-![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/192e56a2-fe4f-4636-afa4-60c9366f04ad)
+![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/f4e134e0-952f-47b3-a6d5-3df74eb565da)
 
 Program ini merupakan implementasi dari struktur data graf yang merepresentasikan sebuah simpul dan jarak antar simpul. Pada program ini juga meminta onput dari pengguna untuk jumlah simpul, nama simpul dan bobot jarak antar simpul. Kemudian, program akan menampilkan graf tersebut dalam bentuk matriks yang menunjukkan jarak antar simpul. 
 
