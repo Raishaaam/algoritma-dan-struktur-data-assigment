@@ -11,8 +11,8 @@ Praktikum Alpro
 
 ### Jenis-jenis Graph.
 1. Graph Tak Berarah (undirected graph atau non-directed graph)[3].
-2. Graph Berarah (directed graph)[3].
-3. Graph Berbobot (Weighted Graph)[3].                                                                                                    ![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/5f1031ef-64a8-4c18-a8e6-88eedabdfd6e)
+2. Graph Berarah (directed graph)[3]. 
+3. Graph Berbobot (Weighted Graph)[3].                                                                                                   ![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/5f1031ef-64a8-4c18-a8e6-88eedabdfd6e)
 
 ### Istilah-istilah dalam graf
 1. `Vertex` (himpunan node/titik pada sebuah graph)[3].
