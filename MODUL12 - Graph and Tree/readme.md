@@ -193,7 +193,8 @@ int main() {
 ```
 
 #### Output:
-![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/b8dffa2e-bd68-4c6a-999e-a04409e244de)
+![image](https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment/assets/161957283/f9bbd432-c142-443f-9f5e-b7eec5ed72d1)
+
 
 Program ini merupakan implementasi dari struktur data binary tree (pohon biner) menggunakan struct `TNode` yang memiliki atribut `data`, `left`, dan `right` untuk menyimpan nilai dan referensi ke node kiri dan kanan. Program ini juga mendefinisikan tiga fungsi untuk melakukan traversal (pengunjungan) pada pohon biner, yaitu `preOrder`, `inOrder`, dan `postOrder`. Fungsi `preOrder` melakukan pengunjungan dengan urutan root-node-left-right, `inOrder` dengan urutan left-root-right, dan `postOrder` dengan urutan left-right-root. Pada `main`, program ini membuat sebuah pohon biner dengan struktur seperti pada komentar, kemudian melakukan traversal menggunakan ketiga fungsi tersebut. 
 
