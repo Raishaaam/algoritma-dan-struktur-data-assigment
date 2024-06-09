@@ -5,6 +5,7 @@ using namespace std;
 
 struct Graf {
     string *namaSimpul;
+    int Raisha_2311110002;
     int **jarak;
     int jumlahSimpul;
 };
