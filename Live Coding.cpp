@@ -3,26 +3,25 @@
 using namespace std;
 
 int main() {
-    int n = 10;
-    int data[n] = {9, 4, 1, 7, 5, 12, 4, 13, 4, 10};
-    int cari = 10;
+    int n = 12;
+    int angka[n] = {12, 5, 5, 3, 8, 10, 11};
+    int cari = 12;
     bool ketemu = false;
     int i;
 
-    // algoritma Sequential Search
     for (i = 0; i < n; i++) {
-        if(data[i] == cari) {
+        if(angka[i] == cari) {
             ketemu = true;
             break;
         }
     }
-    cout << "\t Program Sequential Search Sederhana\n" << endl;
-    cout << "data: {9, 4, 1, 7, 5, 12, 4, 13, 4, 10}" << endl;
+    cout << "\t Mencari nilai sekuential\n" << endl;
+    cout << "data: {12, 5, 5, 3, 8, 10, 11}" << endl;
+
     if (ketemu){
         cout << "\n angka "<< cari << " ditemukan pada indeks ke-" << i << endl;
     } else {
         cout << cari << " tidak dapat ditemukan pada data." << endl;
     }
     return 0;
-    
 }

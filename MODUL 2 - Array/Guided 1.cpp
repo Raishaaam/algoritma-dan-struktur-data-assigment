@@ -11,7 +11,8 @@ int main()
     for (int y = 0; y < 3; y++)
     {
       for (int z = 0; z < 3; z++)
-      {
+      {1
+      
         cout << "Input Array[" << x << "][" << y << "][" << z << "] = ";
         cin >> arr[x][y][z];
       }

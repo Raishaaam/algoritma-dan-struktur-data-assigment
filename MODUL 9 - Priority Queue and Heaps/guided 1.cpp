@@ -1,5 +1,5 @@
 #include <iostream>
- #include <algorithm>
+#include <algorithm>
 
  int H[50];
  int heapSize = -1;

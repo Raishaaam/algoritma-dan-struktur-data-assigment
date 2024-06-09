@@ -9,7 +9,6 @@ bool isVowel(char ch) {
     return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
 }
 
-// Fungsi untuk menghitung jumlah huruf vokal dalam sebuah kalimat
 int countVowels(const string& sentence) {
     int count = 0;
     for (char ch : sentence) {

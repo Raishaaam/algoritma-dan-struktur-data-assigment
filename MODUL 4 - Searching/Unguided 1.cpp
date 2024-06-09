@@ -10,7 +10,7 @@ int findIndex(const string& sentence, char target) {
             return i;
         }
     }
-    return -1; // Jika tidak ditemukan
+    return -1
 }
 
 int main() {

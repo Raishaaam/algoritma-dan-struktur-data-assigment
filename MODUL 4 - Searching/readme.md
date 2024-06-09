@@ -292,9 +292,7 @@ Program ini merupakan program yang digunakan untuk menghitung sejumlah agka 4 ya
 
 Sequential Search merupakan algoritma search yang paling sederhana dan mudah untuk dipahami. Dengan membandingkan setiap elemen yang terdapat pada data dengan nilai yang dicari sebagai cara kerja dari sebuah sequential. Jika nilai yang dicari ditemukan, maka akan ditambahkan 1 pada variabel cout. Setelah selesai melakukan sebuah looping, fungsi akan mengembalikan nilai dari variabel count.
 
-
-
-   Github:
+Github:
 (https://github.com/Raishaaam/algoritma-dan-struktur-data-assigment.git)
 
 ## Kesimpulan
